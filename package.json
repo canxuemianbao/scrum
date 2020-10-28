@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "mobx": "^5.13.0",
-    "react": "^16.9.0",
+    "react": "^17.0.0",
     "redux": "^4.0.4",
     "rxjs": "^6.5.2"
   },
