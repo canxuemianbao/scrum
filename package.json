@@ -13,7 +13,7 @@
     "mobx": "^5.13.0",
     "react": "^16.9.0",
     "redux": "^4.0.4",
-    "rxjs": "^6.5.2"
+    "rxjs": "^7.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.2",
