@@ -25,10 +25,10 @@ dom-walk@^0.1.0:
   resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.1.tgz#672226dc74c8f799ad35307df936aba11acd6018"
   integrity sha1-ZyIm3HTI95mtNTB9+TaroRrNYBg=
 
-git-cz@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.2.1.tgz#24c0719936064edf133c2886f56e321d3ae443c0"
-  integrity sha512-w4t/bnQOqN4i3F9Se+xMppRX80UKtvyzfUGzRcaNPOL9S9sowZfvri6GkYhSUJTUkgU7MKTSCyalWbAWvDcRwA==
+git-cz@3.3.0:
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.3.0.tgz#34cc39a93eb56ee272470ad569dd45ff3426492f"
+  integrity sha512-wIc93R0B8DIarbkhUMVBO+mezlSZSNj0sF8FBSLaSjS76o/uYPyDKYcAEdmGUkGgBfpI65u647eVTkOvT+cS0Q==
   dependencies:
     global "^4.3.2"
 
