@@ -16,7 +16,7 @@
     "rxjs": "^6.5.2"
   },
   "devDependencies": {
-    "@types/react": "^16.9.2",
+    "@types/react": "16.14.32",
     "git-cz": "^3.2.1"
   }
 }
