@@ -17,6 +17,6 @@
   },
   "devDependencies": {
     "@types/react": "^16.9.2",
-    "git-cz": "^3.2.1"
+    "git-cz": "^4.0.0"
   }
 }
