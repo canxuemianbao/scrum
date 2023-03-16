@@ -11,12 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "mobx": "^5.13.0",
-    "react": "^16.9.0",
+    "react": "^18.0.0",
     "redux": "^4.0.4",
     "rxjs": "^6.5.2"
   },
   "devDependencies": {
-    "@types/react": "^16.9.2",
+    "@types/react": "^18.0.0",
     "git-cz": "^3.2.1"
   }
 }
