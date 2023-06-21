@@ -21,14 +21,14 @@ csstype@^2.2.0:
   integrity sha512-RpFbQGUE74iyPgvr46U9t1xoQBM8T4BL8SxrN66Le2xYAPSaDJJKeztV3awugusb3g3G9iL8StmkBBXhcbbXhg==
 
 dom-walk@^0.1.0:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.1.tgz#672226dc74c8f799ad35307df936aba11acd6018"
-  integrity sha1-ZyIm3HTI95mtNTB9+TaroRrNYBg=
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/dom-walk/-/dom-walk-0.1.2.tgz#0c548bef048f4d1f2a97249002236060daa3fd84"
+  integrity sha512-6QvTW9mrGeIegrFXdtQi9pk7O/nSK6lSdXW2eqUspN5LWD7UTji2Fqw5V2YLjBpHEoU9Xl/eUWNpDeZvoyOv2w==
 
 git-cz@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.2.1.tgz#24c0719936064edf133c2886f56e321d3ae443c0"
-  integrity sha512-w4t/bnQOqN4i3F9Se+xMppRX80UKtvyzfUGzRcaNPOL9S9sowZfvri6GkYhSUJTUkgU7MKTSCyalWbAWvDcRwA==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/git-cz/-/git-cz-3.3.0.tgz#34cc39a93eb56ee272470ad569dd45ff3426492f"
+  integrity sha512-wIc93R0B8DIarbkhUMVBO+mezlSZSNj0sF8FBSLaSjS76o/uYPyDKYcAEdmGUkGgBfpI65u647eVTkOvT+cS0Q==
   dependencies:
     global "^4.3.2"
 
@@ -55,7 +55,7 @@ loose-envify@^1.1.0, loose-envify@^1.4.0:
 min-document@^2.19.0:
   version "2.19.0"
   resolved "https://registry.yarnpkg.com/min-document/-/min-document-2.19.0.tgz#7bd282e3f5842ed295bb748cdd9f1ffa2c824685"
-  integrity sha1-e9KC4/WELtKVu3SM3Z8f+iyCRoU=
+  integrity sha512-9Wy1B3m3f66bPPmU5hdA4DR4PB2OfDU/+GS3yAB7IQozE3tqXaVv2zOjgla7MEGSRv95+ILmOuvhLkOK6wJtCQ==
   dependencies:
     dom-walk "^0.1.0"
 
@@ -72,7 +72,7 @@ object-assign@^4.1.1:
 process@^0.11.10:
   version "0.11.10"
   resolved "https://registry.yarnpkg.com/process/-/process-0.11.10.tgz#7332300e840161bda3e69a1d1d91a7d4bc16f182"
-  integrity sha1-czIwDoQBYb2j5podHZGn1LwW8YI=
+  integrity sha512-cdGef/drWFoydD1JsMzuFf8100nZl+GT+yacc2bEced5f9Rjk4z+WtFUTBu9PhOi9j/jfmBPu0mMEY4wIdAF8A==
 
 prop-types@^15.6.2:
   version "15.7.2"
