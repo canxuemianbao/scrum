@@ -59,10 +59,10 @@ min-document@^2.19.0:
   dependencies:
     dom-walk "^0.1.0"
 
-mobx@^5.13.0:
-  version "5.13.0"
-  resolved "https://registry.yarnpkg.com/mobx/-/mobx-5.13.0.tgz#0fd68f10aa5ff2d146a4ed9e145b53337cfbca59"
-  integrity sha512-eSAntMSMNj0PFL705rgv+aB/z1RjNqDnFEpBe18yQVreXTWiVgIrmBUXzjnJfuba+eo4eAk6zi+/gXQkSUea8A==
+mobx@^7.0.0:
+  version "7.1.7"
+  resolved "https://registry.yarnpkg.com/mobx/-/mobx-7.1.7.tgz#12281ff4c4329c0e31bf9ad846b602090bd56c0c"
+  integrity sha512-fzFPm0u0xHxrAyjFsjfA/a99JgyvLh8R/bnTe7uD37cwbO5O7OUrv/e6Q4rlYdBGCf3rR/pVvh1OVMPF10ghng==
 
 object-assign@^4.1.1:
   version "4.1.1"
